@@ -38,4 +38,9 @@ public class calculadora {
         double resta=numero1-numero2;
         return resta;
     }
+    
+    public double multiplicacion(){
+        double multiplicacion=numero1*numero2;
+        return multiplicacion;
+    }
 }
